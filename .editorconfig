@@ -1,0 +1,7 @@
+
+[*.{cs,vb}]
+#### Naming styles ####
+
+# Naming styles
+
+dotnet_style_parentheses_in_other_binary_operators = always_for_clarity:silent
